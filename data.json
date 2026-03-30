@@ -1,0 +1,78 @@
+{
+  "saunaDeal": {
+    "count": 0,
+    "active": true,
+    "messageId": null,
+    "channelId": "1488205171438911619",
+    "completedThisMonth": false
+  },
+  "ytshorts": {
+    "count": 0,
+    "messageId": null,
+    "channelId": "1488229514428420176",
+    "uploads": []
+  },
+  "reels": {
+    "count": 2,
+    "messageId": null,
+    "channelId": "1488229499341635795",
+    "uploads": [
+      {
+        "id": "1774903345791",
+        "title": "dd",
+        "userId": "1458209320540966973",
+        "userTag": "bendixen.4ve",
+        "timestamp": 1774903345
+      },
+      {
+        "id": "1774903353325",
+        "title": "dadada",
+        "userId": "1458209320540966973",
+        "userTag": "bendixen.4ve",
+        "timestamp": 1774903353
+      }
+    ]
+  },
+  "tiktok": {
+    "count": 0,
+    "messageId": null,
+    "channelId": "1488229527867101436",
+    "uploads": []
+  },
+  "allplatforms": {
+    "count": 0,
+    "messageId": null,
+    "channelId": "1488266081691897986",
+    "uploads": []
+  },
+  "overview": {
+    "messageId": null,
+    "channelId": "1488230830009614426"
+  },
+  "requests": {
+    "panelMessageId": "1488280126008594482",
+    "panelChannelId": "1488254021151096983",
+    "queueChannelId": "1488255805428990074",
+    "activeChannelId": "1488252492595593409",
+    "completedChannelId": "1488256643505324175",
+    "items": [
+      {
+        "id": "REQ-038485",
+        "title": "d",
+        "userId": "1458209320540966973",
+        "createdAt": 1774904038,
+        "isLimited": false,
+        "deadline": null,
+        "description": "d",
+        "status": "completed",
+        "progress": 100,
+        "approvedBy": "1458209320540966973",
+        "approvedAt": 1774904042,
+        "completedBy": "1458209320540966973",
+        "completedAt": 1774904049,
+        "messageId": "1488280193960247539",
+        "channelId": "1488256643505324175"
+      }
+    ]
+  }
+}
